@@ -2,15 +2,20 @@ import java.util.List;
 
 public class ListExercises {
 
-    /** Returns the total sum in a list of integers */
+    /** 返回整数列表的总和 */
     public static int sum(List<Integer> L) {
-        // TODO: Fill in this function.
-        return 0;
+       int sum1 = 0;
+       for(Integer i:L){
+           sum1+=i;
+       }
+        return sum1;
     }
 
-    /** Returns a list containing the even numbers of the given list */
+    /** 返回包含该列表偶数的列表 */
     public static List<Integer> evens(List<Integer> L) {
-        // TODO: Fill in this function.
+
+
+
         return null;
     }
 
