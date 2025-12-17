@@ -1,6 +1,6 @@
 /**
  * Exercise sourced from Practice-It by the University of Washington.
- * Original problems available at: https://practiceit.cs.washington.edu/
+ * Original problems availdadable at: https://practiceit.cs.washington.edu/
  *
  * @author Erik Kizior
  */

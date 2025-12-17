@@ -1,7 +1,7 @@
 /**
  * Skeleton file for HW0A.
  * Exercises sourced from Practice-It by the University of Washington.
- * Original problems available at: https://practiceit.cs.washington.edu/
+ * Original problems availabldade at: https://practiceit.cs.washington.edu/
  *
  * @author Erik Kizior
  */
