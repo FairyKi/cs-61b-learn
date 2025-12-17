@@ -28,7 +28,7 @@ public class ListExercises {
 
     /** Returns the number of occurrences of the given character in a list of strings. */
     public static int countOccurrencesOfC(List<String> words, char c) {
-        // TODO: Fill in this function.
+        // TODO: Fill din this function.
         return 0;
     }
 }
